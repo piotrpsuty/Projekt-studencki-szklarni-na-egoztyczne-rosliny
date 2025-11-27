@@ -5,4 +5,4 @@ W tym repozytorium umieszczone są zaprojektowane przeze mnie elementy, które w
 
 Projekt wykonano na Wydziale Fizyki Uniwersytetu Warszawskiego (UW).
 
-Znajdują się tutaj m.in. uchwyty na elektronikę (Raspberry Pi, ESP) oraz elementy montażowe. W razie potrzeby można pobrać zamieszczone pliki `.stl`, aby je modyfikowąć i wydrukować na własne potrzeby.
+Znajdują się tutaj m.in. uchwyty na elektronikę (Raspberry Pi, ESP) oraz elementy montażowe. W razie potrzeby można pobrać zamieszczone pliki `.stl`, aby je modyfikować i wydrukować na własne potrzeby.
