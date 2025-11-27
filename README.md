@@ -1,5 +1,5 @@
 # Raport z projektu
-W tym repozytorium znajduje się raport z projektu studenckiego wykonanego na Wydziale Fizyki Uniwersytetu Warszawskiego, w ramach którego zbudowano szklarnie na tropikalne rośliny.
+W tym repozytorium znajduje się raport z projektu studenckiego (Sprawozdanie_Szklarnia.pdf) wykonanego na Wydziale Fizyki Uniwersytetu Warszawskiego, w ramach którego zbudowano szklarnie na tropikalne rośliny.
 
 # Modele 3D - Szklarnia
 W tym repozytorium umieszczone są również zaprojektowane elementy, które wydrukowano w technologii 3D na potrzeby projektu studenckiego, w którym zbudowano szklarnię na egzotyczne rośliny.
